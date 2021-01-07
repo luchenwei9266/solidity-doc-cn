@@ -171,11 +171,7 @@ html_static_path = []
 
 # If not '', a 'Last updated on:' timestamp is inserted at every page bottom,
 # using the given strftime format.
-<<<<<<< HEAD
 html_last_updated_fmt = '2020/07/23'
-=======
-html_last_updated_fmt = '2021/01/07'
->>>>>>> fb25df1... add versions
 
 # If true, SmartyPants will be used to convert quotes and dashes to
 # typographically correct entities.
