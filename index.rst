@@ -1,4 +1,4 @@
-Solidity 0.5.9 翻译
+Solidity 0.5.9 中文翻译
 ================================
 
 .. image:: logo.svg
@@ -7,10 +7,12 @@ Solidity 0.5.9 翻译
     :align: center
 
 
-译者说明：本文档根据当前 `最新官方版本v0.5.9 <https://solidity.readthedocs.io/>`_ 进行翻译，是国内唯一保持更新的文档。
-本翻译最初 `HiBlock <http://hiblock.one/>`_ 社区发起，后经过 `深入浅出区块链社区 <https://learnblockchain.cn/>`_ 社区成员根据最新版本补充翻译。
+译者说明：本文档根据当前 `官方Solidity v0.5.9 版本 <https://solidity.readthedocs.io/>`_ 进行翻译，是国内唯一保持更新的文档，也是官方推荐的版本。
+最新版在可前往 `Solidity 最新中文版本 <https://learnblockchain.cn/docs/solidity>`_ 。
 
-翻译工作是一个持续的过程（这份文档目前也还有部分未完成），我们热情邀请热爱区块链技术的小伙伴一起参与，欢迎加入我们 `Group <https://github.com/lbc-team>`_ 。
+本翻译最初 `HiBlock <http://hiblock.one/>`_ 社区发起，后经过 `登链社区 <https://learnblockchain.cn/>`_ 社区成员根据最新版本补充翻译。
+
+翻译工作是一个持续的过程（这份文档目前也还有部分未完成），我们热情邀请热爱区块链技术的小伙伴一起参与，欢迎加入我们 `Github Group <https://github.com/lbc-team>`_ 。
 
 本中文文档大部分情况下，英中直译，但有时为了更好的理解也会使用意译，如需转载请联系Tiny熊（微信：xlbxiong）.
 
@@ -50,7 +52,7 @@ Solidity 是静态类型语言，支持继承、库和复杂的用户定义类�
 
 本文档由社区志愿者翻译成多种语言，但是 `英语版本 <https://github.com/ethereum/solidity/blob/develop/docs/index.rst>`_ 作为主要参考。
 
-* `简体中文版 <https://learnblockchain.cn/docs/solidity/>`_ （由 `HiBlock社区 <http://hiblock.one/>`_ `深入浅出区块链社区 <https://learnblockchain.cn/>`_ 贡献者翻译）
+* `简体中文版 <https://learnblockchain.cn/docs/solidity/>`_ （由 `HiBlock社区 <http://hiblock.one/>`_ `登链社区 <https://learnblockchain.cn/>`_ 贡献者翻译）
 * `西班牙语版 <https://solidity-es.readthedocs.io>`_
 * `俄语版 <https://github.com/ethereum/wiki/wiki/%5BRussian%5D-%D0%A0%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE-%D0%BF%D0%BE-Solidity>`_ (已过时)
 * `韩语版 <http://solidity-kr.readthedocs.io>`_ (in progress)
