@@ -54,13 +54,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-<<<<<<< HEAD
-project = 'Solidity 中文文档'
-copyright = '2017-2020, Ethereum, HiBlock, 登链社区'
-=======
 project = 'Solidity中文文档'
 copyright = '2017-2021, Ethereum, HiBlock, 登链社区'
->>>>>>> fb25df1... add versions
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -176,11 +171,7 @@ html_static_path = []
 
 # If not '', a 'Last updated on:' timestamp is inserted at every page bottom,
 # using the given strftime format.
-<<<<<<< HEAD
 html_last_updated_fmt = '2020/06/09'
-=======
-html_last_updated_fmt = '2021/01/07'
->>>>>>> fb25df1... add versions
 
 # If true, SmartyPants will be used to convert quotes and dashes to
 # typographically correct entities.
