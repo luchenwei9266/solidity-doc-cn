@@ -7,7 +7,7 @@ Solidity 0.6.9 中文文档
     :align: center
 
 
-译者说明：本文档根据当前 `Solidity v0.6.9 版本<https://solidity.readthedocs.io/>`_ 进行翻译，是官方推荐的中文版本。
+译者说明：本文档根据当前 `Solidity v0.6.9 版本 <https://solidity.readthedocs.io/>`_ 进行翻译，是官方推荐的中文版本。
 本翻译最初 `HiBlock <http://hiblock.one/>`_ 社区发起，后经过 `登链社区 <https://learnblockchain.cn/>`_ 社区成员根据最新版本补充翻译。
 翻译工作得到 `Cell Network <http://www.cellnetwork.io/?utm_souce=learnblockchain>`_ 赞助
 
@@ -31,7 +31,7 @@ Solidity 是静态类型语言，支持继承、库和复杂的用户定义类�
 ----------------------
 
 如果你才接触智能合约概念，推荐从一些 `简单的Solidity合约例子 <introduction-to-smart-contracts.html#simple-smart-contract>`_ 开始，当你想开始尝试了解更多的细节，可以
-学习 :doc:`合约样例 <solidity-by-example>`_ 和 "Solidity详解" 部分 。
+学习 :doc:`合约样例 <solidity-by-example>` 和 "Solidity详解" 部分 。
 
 你还可以进一步阅读 :ref:`区块链 <blockchain-basics>` 基础，然后是 :ref:`以太坊虚拟机 <the-ethereum-virtual-machine>` 。
 
