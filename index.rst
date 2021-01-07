@@ -1,4 +1,4 @@
-Solidity 最新中文文档
+Solidity v0.7.1 中文文档
 ================================
 
 .. image:: logo.svg
@@ -7,8 +7,8 @@ Solidity 最新中文文档
     :align: center
 
 
-译者说明：本文档根据当前 `Solidity官方文档 <https://solidity.readthedocs.io/>`_ 最新版本（当前为v0.7.1）进行翻译。
-并且由于高质量的翻译和及时的更新，现在是 **Solidity官方推荐中文版** 。
+译者说明：文档根据当前 `Solidity官方文档 <https://solidity.readthedocs.io/>`_  v0.7.1 版本进行翻译，点击可前往 `Solidity中文文档最新版本 <https://learnblockchain.cn/docs/solidity/>`_ 。
+
 
 Solidity中文翻译最初由 `HiBlock <http://hiblock.one/>`_ 社区发起，后由 `登链社区 <https://learnblockchain.cn/>`_ 社区持续维护更新。
 本翻译工作还得到 `Cell Network <http://www.cellnetwork.io/?utm_souce=learnblockchain>`_ 赞助。
@@ -28,6 +28,7 @@ Solidity 是静态类型语言，支持继承、库和复杂的用户定义类�
 
   Solidity 发布 0.5.x 有很多与之前版本不兼容的升级，理解更新可阅读 :doc:`更新列表 <050-breaking-changes>`.
   Solidity 发布 0.6.x 有很多与之前版本不兼容的升级，理解更新可阅读 :doc:`更新列表 <060-breaking-changes>`.
+  Solidity 发布 0.7.x 有很多与之前版本不兼容的升级，理解更新可阅读 :doc:`更新列表 <070-breaking-changes>`.
 
 语言文档
 ----------------------

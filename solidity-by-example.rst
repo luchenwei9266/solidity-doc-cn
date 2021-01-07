@@ -10,11 +10,16 @@
 .. toctree::
    :maxdepth: 2
 
-   examples/voting.rst
-   examples/blind-auction.rst
-   examples/safe-remote.rst
-   examples/micropayment.rst
-   examples/modular.rst
+.. include:: examples/voting.rst
+
+.. include:: examples/blind-auction.rst
+
+.. include:: examples/safe-remote.rst
+
+.. include:: examples/micropayment.rst
+
+.. include:: examples/modular.rst
+
 
 
 
