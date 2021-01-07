@@ -56,7 +56,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'Solidity中文文档'
+project = 'Solidity v0.7.1 中文文档'
 copyright = '2017-2021, Ethereum, HiBlock, 登链社区'
 
 # The version info for the project you're documenting, acts as replacement for
