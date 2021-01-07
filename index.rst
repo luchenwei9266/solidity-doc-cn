@@ -7,8 +7,10 @@ Solidity 0.6.4 文档翻译
     :align: center
 
 
-译者说明：本文档根据当前 `最新官方版本v0.6.4 <https://solidity.readthedocs.io/>`_ 进行翻译，是国内唯一保持更新的文档且官方推荐的中文翻译版本。
-本翻译最初 `HiBlock <http://hiblock.one/>`_ 社区发起，后经过 `深入浅出区块链社区 <https://learnblockchain.cn/>`_ 社区成员根据最新版本补充翻译。
+译者说明：本文档根据当前 `Solidity v0.6.4 版本<https://solidity.readthedocs.io/>`_ 进行翻译，是国内唯一保持更新的文档且官方推荐的中文翻译版本。
+最选版本可前往`Solidity 最新中文版本 <https://learnblockchain.cn/docs/solidity>`_ 。
+
+本翻译最初 `HiBlock <http://hiblock.one/>`_ 社区发起，后经过 `登链社区 <https://learnblockchain.cn/>`_ 社区成员根据最新版本补充翻译。
 
 翻译工作是一个持续的过程（这份文档目前也还有部分未完成），我们热情邀请热爱区块链技术的小伙伴一起参与，欢迎加入我们 `Group <https://github.com/lbc-team>`_ 。
 
